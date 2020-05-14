@@ -21,5 +21,5 @@ end
 
 #Bonus
 def current_player(board)
-  
+  if 
 end
