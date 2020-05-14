@@ -8,10 +8,17 @@ def turn_count(board)
   return count
 end
 
+=begin
+non-teremary version
 def current_player(board)
   if turn_count(board) % 2 == 0
     return "X"
   else
     return "O"
   end
+end
+=end
+
+#Bonus
+def current_player(board)
 end
