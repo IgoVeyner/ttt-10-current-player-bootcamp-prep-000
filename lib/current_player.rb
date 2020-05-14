@@ -1,6 +1,6 @@
 def turn_count(board)
   count = 0 
   board.each do |position|
-    if 
+    if #{
   end
 end
